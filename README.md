@@ -1,6 +1,8 @@
 ﻿# Foobar DJ MCP Server
 
 Stop settling for another "AI-to-Spotify" controller. If you've spent years curating a high-quality local music library, you deserve an AI that respects your bits.
+<img width="1345" height="1012" alt="12121" src="https://github.com/user-attachments/assets/08bf373a-12e0-4a83-b812-574c2a0088ed" />
+
 
 Foobar DJ is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that connects Gemini (or any MCP-compatible agent) directly to your **Foobar2000** setup. There is something truly awesome about asking an AI to "dig through my 90s grunge" and having it shuffle up a pristine `.flac` library instead of a compressed stream.
 
